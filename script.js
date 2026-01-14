@@ -1,3 +1,5 @@
+// 1. CONDITIONAL STATEMENT - decision making
+
 const number = 5;
 
 if (number > 0) {
