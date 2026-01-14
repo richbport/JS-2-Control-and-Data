@@ -12,6 +12,8 @@ if (number > 0) {
 
 // 2. LOOP - repeat an action multiple times
 
-for (let i = 1; i <=5; i++) {
+console.log("Counting from 1 to 5:")
+
+for (let i = 1; i <= 5; i++) {
     console.log(i)
 }
