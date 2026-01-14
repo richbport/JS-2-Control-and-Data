@@ -9,3 +9,9 @@ if (number > 0) {
 } else {
     console.log(`${number} is zero`);
 }
+
+// 2. LOOP - repeat an action multiple times
+
+for (let i = 1; i <=5; i++) {
+    console.log(i)
+}
