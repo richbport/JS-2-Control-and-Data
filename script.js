@@ -20,8 +20,8 @@
 
 let basket = ["apple", "bannana", "grapes"];
 
-console.log(basket.length);
+// console.log(basket.length);
 
-// for (let i = 0; i <= basket.length; i++) {
-//     console.log(i)
-// }
+for (let i = 0; i < basket.length; i++) {
+    console.log(i)
+}
