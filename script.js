@@ -1,19 +1,27 @@
 // 1. CONDITIONAL STATEMENT - decision making
 
-const number = 5;
+// const number = 5;
 
-if (number > 0) {
-    console.log(`${number} is positive`);
-} else if (number < 0) {
-    console.log(`${number} is negative`);
-} else {
-    console.log(`${number} is zero`);
-}
+// if (number > 0) {
+//     console.log(`${number} is positive`);
+// } else if (number < 0) {
+//     console.log(`${number} is negative`);
+// } else {
+//     console.log(`${number} is zero`);
+// }
 
 // 2. LOOP - repeat an action multiple times
 
-console.log("Counting from 1 to 5:")
+// console.log("Counting from 1 to 5:")
 
-for (let i = 1; i <= 10; i += 2) {
-    console.log(i)
-}
+// for (let i = 1; i <= 10; i++) {
+//     console.log(i)
+// }
+
+let basket = ["apple", "bannana", "grapes"];
+
+console.log(basket.length);
+
+// for (let i = 0; i <= basket.length; i++) {
+//     console.log(i)
+// }
