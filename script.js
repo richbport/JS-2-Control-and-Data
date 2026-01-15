@@ -26,9 +26,11 @@
 //     console.log(basket[i])
 // }
 
+// function definition
 function greetUser(name) {
     console.log(`"Hello, ${name}, Welcome to the JavaScript basic demo!"`)
 }
 
+// calling the function
 greetUser("Sally");
 greetUser("Bob");
