@@ -18,10 +18,14 @@
 //     console.log(i)
 // }
 
-let basket = ["apple", "bannana", "grapes"];
+// let basket = ["apple", "bannana", "grapes"];
 
-// console.log(basket.length);
+// // console.log(basket.length);
 
-for (let i = 0; i < basket.length; i++) {
-    console.log(basket[i])
+// for (let i = 0; i < basket.length; i++) {
+//     console.log(basket[i])
+// }
+
+function greetUser(name) {
+    console.log(`"Hello, ${name}, Welcome to the JavaScript basic demo!"`)
 }
