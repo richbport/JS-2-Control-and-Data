@@ -39,3 +39,9 @@ const fruits = ["apple", "bannana", "grapes"];
 console.log(fruits)
 
 const user = ["Victor", 20, "victortest@gmail.com", [1,2,3]]
+
+const student = {
+  name: "Alice",
+  age: 20,
+  grades: [90, 85, 88],
+};
