@@ -27,10 +27,13 @@
 // }
 
 // function definition
-function greetUser(name) {
-    console.log(`"Hello, ${name}, Welcome to the JavaScript basic demo!"`)
-}
+// function greetUser(name) {
+//     console.log(`"Hello, ${name}, Welcome to the JavaScript basic demo!"`)
+// }
 
-// calling the function
-greetUser("Sally");
-greetUser("Bob");
+// // calling the function
+// greetUser("Sally");
+// greetUser("Bob");
+
+const fruits = ["apple", "bannana", "grapes"];
+console.log(fruits)
