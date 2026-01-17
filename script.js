@@ -40,7 +40,7 @@ console.log(fruits)
 
 const user = ["Victor", 20, "victortest@gmail.com", null, undefined, [1,2,3]]
 
-console.log(user[4])
+console.log(user[5] [1])
 
 const student = {
   name: "Alice",
