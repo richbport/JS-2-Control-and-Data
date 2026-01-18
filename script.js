@@ -49,3 +49,5 @@ const student = {
   age: 20,
   grades: [90, 85, 88],
 };
+
+console.log(student.grades);
