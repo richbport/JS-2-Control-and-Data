@@ -62,3 +62,7 @@ const b = 3
 const sum = a + b;
 const product = a * b;
 const random = Math.floor(Math.random() * 10); // random number 0-9
+
+const random2 = Math.random()
+
+console.log(random2)
