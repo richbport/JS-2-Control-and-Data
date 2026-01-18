@@ -50,4 +50,4 @@ const student = {
   grades: [90, 85, 88],
 };
 
-console.log(student.grades);
+console.log(student.grades[1]);
