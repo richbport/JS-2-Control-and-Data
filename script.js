@@ -24,7 +24,7 @@ for (let i = 0; i < basket.length; i++) {
       console.log(basket[i])
   }
 
-for (let fruits in basket) {
+for (let fruits of basket) {
   console.log(basket[fruits]);
 }
   
