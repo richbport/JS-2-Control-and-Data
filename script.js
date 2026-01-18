@@ -18,13 +18,17 @@
 //     console.log(i)
 // }
 
-// let basket = ["apple", "bannana", "grapes"];
+let basket = ["apple", "bannana", "grapes"];
 
-// // console.log(basket.length);
+for (let i = 0; i < basket.length; i++) {
+      console.log(basket[i])
+  }
 
-// for (let i = 0; i < basket.length; i++) {
-//     console.log(basket[i])
-// }
+for (let fruits in basket) {
+  console.log(basket[fruits]);
+}
+  
+  // // console.log(basket.length);
 
 // function definition
 // function greetUser(name) {
@@ -35,19 +39,19 @@
 // greetUser("Sally");
 // greetUser("Bob");
 
-const fruits = ["apple", "bannana", "grapes"];
-console.log(fruits)
+// const fruits = ["apple", "bannana", "grapes"];
+// console.log(fruits)
 
-const user = ["Victor", 20, "victortest@gmail.com", null, undefined, [1,2,3]]
+// const user = ["Victor", 20, "victortest@gmail.com", null, undefined, [1,2,3]]
 
-const test = (user[5])
+// const test = (user[5])
   
-console.log(test[1])
+// console.log(test[1])
 
-const student = {
-  name: "Alice",
-  age: 20,
-  grades: [90, 85, 88],
-};
+// const student = {
+//   name: "Alice",
+//   age: 20,
+//   grades: [90, 85, 88],
+// };
 
-console.log(student.grades[1]);
+// console.log(student.grades[1]);
