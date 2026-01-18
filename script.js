@@ -18,15 +18,15 @@
 //     console.log(i)
 // }
 
-let basket = ["apple", "bannana", "grapes"];
+// let basket = ["apple", "bannana", "grapes"];
 
-for (let i = 0; i < basket.length; i++) {
-      console.log(basket[i])
-  }
+// for (let i = 0; i < basket.length; i++) {
+//       console.log(basket[i])
+//   }
 
-for (let fruits of basket) {
-  console.log(basket[fruits]);
-}
+// for (let fruits in basket) {
+//   console.log(basket[fruits]);
+// }
   
   // // console.log(basket.length);
 
@@ -55,3 +55,9 @@ for (let fruits of basket) {
 // };
 
 // console.log(student.grades[1]);
+
+const a = 10
+const b = 3
+
+const sum = a + b;
+const product = a * b;
